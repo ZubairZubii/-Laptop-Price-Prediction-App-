@@ -3,7 +3,8 @@ Here's a README file for your laptop prediction project, structured similarly to
 
 # 💻 Laptop Price Prediction App 💻
 
-![Laptop Prediction](https://github.com/user-attachments/assets/your-image-link)
+![s1](https://github.com/user-attachments/assets/e53cfcf9-81c2-4bdf-8518-b5e7f8154129)
+
 
 Welcome to the **Laptop Price Prediction App**, a web application built using Flask that predicts laptop prices based on user inputs! This project utilizes a machine learning model to provide accurate price predictions for various laptop configurations.
 
@@ -43,9 +44,8 @@ Welcome to the **Laptop Price Prediction App**, a web application built using Fl
 4. **Access the App**
    Open your web browser and navigate to `http://127.0.0.1:5000/`.
 
-## 📽️ Watch the App in Action!
+![s2](https://github.com/user-attachments/assets/a442ea90-72f6-4c2b-b520-ee4b1a4e2d61)
 
-Check out our demo video here: [Laptop Price Prediction Demo](YOUR_VIDEO_LINK_HERE)
 
 ## 🎮 How to Use
 
@@ -73,6 +73,9 @@ LAPTOP_PRICE_PREDICTION/
 └── requirements.txt    # List of required packages
 ```
 
+![s3](https://github.com/user-attachments/assets/7f42c50a-73f8-4307-9d84-3e2640914e6a)
+
+
 ## 💻 Built With
 
 - [Python](https://www.python.org/) - Programming Language
@@ -82,7 +85,7 @@ LAPTOP_PRICE_PREDICTION/
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/ZubairZubii)
-- [LinkedIn](YOUR_LINKEDIN_PROFILE_HERE)
+
 
 ## 🤝 Contributing
 
